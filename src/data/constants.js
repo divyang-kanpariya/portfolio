@@ -13,7 +13,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "As a versatile freelancer, I am eager to collaborate on full stack projects and take on new challenges. With a passion for learning and a dedication to delivering high-quality results, I bring a positive attitude and growth mindset to every project.",
+    "As a Full Stack Developer, I’m eager to work on new projects and face new challenges. I’m passionate about learning and focused on delivering high-quality results. I always bring a positive attitude and a growth mindset to every project.",
   github: "https://github.com/divyang-kanpariya",
   resume:
     "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",

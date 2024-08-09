@@ -5,7 +5,7 @@ import ergLocale from '../images/ergLocale.png'
 import kinerktube from '../images/kinerktube.png'
 import writeWiz from '../images/writeWiz.png'
 export const Bio = {
-  name: "Divyang Kanpuriya",
+  name: "Divyang Kanpariya",
   roles: [
     "Full Stack Developer",
     "UI/UX Designer",
